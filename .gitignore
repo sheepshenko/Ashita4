@@ -1,0 +1,6 @@
+# Ignore DATs
+*.dat
+*.DAT
+polplugins/DATs/*
+screenshots/*
+logs/*
